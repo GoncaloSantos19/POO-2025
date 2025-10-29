@@ -1,0 +1,5 @@
+# Ignorar ficheiros compilados e diretório bin
+out/
+bin/
+*.class
+*.class
