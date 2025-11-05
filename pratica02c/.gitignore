@@ -1,0 +1,4 @@
+# Ignorar ficheiros compilados e diretórios de build
+out/
+bin/
+*.class
