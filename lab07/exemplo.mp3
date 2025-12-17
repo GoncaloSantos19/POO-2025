@@ -1,0 +1,8 @@
+# Ficheiro de exemplo para testes de cópia
+# Este é um ficheiro de texto simulando um mp3
+# Utilize este ficheiro para testar a funcionalidade de cópia de ficheiros
+
+Este é apenas um ficheiro de teste, não um ficheiro mp3 real.
+Contém dados de exemplo para demonstrar a funcionalidade de I/O binário.
+
+Para testes reais, pode substituir por um ficheiro .mp3 verdadeiro.

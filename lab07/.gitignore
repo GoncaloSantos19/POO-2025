@@ -1,0 +1,15 @@
+# Ignorar ficheiros compilados e diretórios de build
+out/
+bin/
+target/
+build/
+*.class
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Ficheiros de dados (opcional - descomente se não quiser versionar)
+# data/
+# media/
