@@ -1,0 +1,28 @@
+# Eclipse / IntelliJ / VSCode
+/.idea/
+*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
+
+# Maven
+**/target/
+projeto/target/
+
+# Java
+*.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OneDrive temp files
+~$*
+
+# Output files
+projeto/output.txt
+
+# IDE specific
+*.swp
